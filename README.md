@@ -24,7 +24,7 @@ Recursive functions are necessary for generating fractal patterns because they r
 __Coding Train: Challenge 168:__ [Mandelbulb Point Cloud](https://thecodingtrain.com/challenges/168-the-mandelbulb) (The Mandelbulb, n.d.).
 
  
-![Mandelbulb Point Cloud](readmeImages/Mandelbulb_pointcloud.jpg)
+![Mandelbulb Point Cloud](readmeImages/pointcloud.jpg)
 
 > Click to view code on Coding Train GitHub: [Madelbulb_Cloud](https://github.com/CodingTrain/Coding-Challenges/blob/main/168_Mandelbulb/Processing/MandelBulb_Cloud/MandelBulb_Cloud.pde.) 
 
