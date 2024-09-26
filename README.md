@@ -13,7 +13,9 @@ Fractal art captivates me because it can generate endlessly complex, recursive p
 
 2. __Koch Snowflake__
     _Neils Fabian Helge von Koch_
-    
+
+    ![Koch Snowflake](https://www.ams.org/images/inigo-quilez-enmpperaltta.jpg)
+
      ![Koch Snowflake](https://fractalsaco.weebly.com/uploads/6/3/5/5/63554315/fractal-12a_2_orig.jpg)
 
 
